@@ -1,1 +1,1 @@
-SmartHome Gesture Control Application Project Part 2
+My code for the SmartHome Gesture Control Application Project
